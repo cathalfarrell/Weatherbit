@@ -8,4 +8,4 @@ This example is to demonstrate how to convert an app into MVVM (Model View View-
 ![Image description](https://cathalfarrell.com/repo-images/weatherbit1.png)
 ![Image description](https://cathalfarrell.com/repo-images/weatherbit2.png)
 ![Image description](https://cathalfarrell.com/repo-images/weatherbit3.png)
-![Image description](https://cathalfarrell.com/repo-images/weatherbit4.png)
+![Image description](https://cathalfarrell.com/repo-images/weatherbit5.png)
